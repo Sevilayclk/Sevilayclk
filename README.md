@@ -1,4 +1,3 @@
-<!-- Replace every KULLANICI_ADI with your GitHub username -->
 
 <div align="center">
 
