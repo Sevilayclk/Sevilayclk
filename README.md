@@ -16,7 +16,10 @@
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,ros,opencv,git,github,linux,vscode" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,ros,opencv,docker,git,github,linux" alt="Tech stack" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge" alt="Gazebo" />
 </p>
 
 ## 📊 GitHub Stats
